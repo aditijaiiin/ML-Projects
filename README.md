@@ -1,6 +1,6 @@
 # ML-Projects
 Machine learning project 
-\n Binary classification done using Logistic regression
-\n Data collection
-\n Data preprocessing
-\n Model Training and model evaluation
+<br>Binary classification done using Logistic regression
+<br>Data collection
+<br>Data preprocessing
+<br>Model Training and model evaluation
