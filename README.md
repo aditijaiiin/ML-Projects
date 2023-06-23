@@ -1,2 +1,3 @@
 # ML-Projects
-<li> Rock vs Mine classification project</li>
+<li> Rock vs Mine - Classification project (Logistic Regression)</li>
+<li> Diabetes Prediction -Classification project (Support Vector Machine)</li>
