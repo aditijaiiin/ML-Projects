@@ -7,3 +7,4 @@
 <li>Wine Quality Prediction - Classification (Random Forest Classifier) </li>
 <li>Car Price Prediction - Regression (Linear Regression and Lasso Regression)</li>
 <li>Gold Price Prediction - Regression (Random Forest Regressor)</li>
+<li> Breast Cancer Prediction - Classification (Logistic Regression)</li>
