@@ -10,3 +10,4 @@
 <li>Breast Cancer Classification - Classification (Logistic Regression)</li>
 <li>Heart Disease Prediction - Classification (Logistic Regression)</li>
 <li>Medical Insurance Cost Prediction - Regression (Linear Regression)</li>
+<li>Credit Card Fraud Detection - Classification (Logistic Regression)</li>
