@@ -12,3 +12,4 @@
 <li>Medical Insurance Cost Prediction - Regression (Linear Regression)</li>
 <li>Credit Card Fraud Detection - Classification (Logistic Regression)</li>
 <li>Big Mart Sales Prediction - Regression (XGBoost)</li>
+<li>Mall Customer Segmentation - Clustering (K-Means Clustering)</li>
