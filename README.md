@@ -14,3 +14,4 @@
 <li>Big Mart Sales Prediction - Regression (XGBoost)</li>
 <li>Mall Customer Segmentation - Clustering (K-Means Clustering)</li>
 <li>Parkinson's Disease Detection - Classification (Support Vector Machine)</li>
+<li>Titanic Survival Prediction - Classification (Logistic Regression)</li>
