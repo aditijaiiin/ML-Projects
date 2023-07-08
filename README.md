@@ -15,3 +15,5 @@
 <li>Mall Customer Segmentation - Clustering (K-Means Clustering)</li>
 <li>Parkinson's Disease Detection - Classification (Support Vector Machine)</li>
 <li>Titanic Survival Prediction - Classification (Logistic Regression)</li>
+<li>Calories Burnt Prediction - Regression (XGBoost)</li>
+<li>Spam Mail Prediction - Classification (Logistic Regression)</li>
