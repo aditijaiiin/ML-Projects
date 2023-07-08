@@ -17,3 +17,4 @@
 <li>Titanic Survival Prediction - Classification (Logistic Regression)</li>
 <li>Calories Burnt Prediction - Regression (XGBoost)</li>
 <li>Spam Mail Prediction - Classification (Logistic Regression)</li>
+<li>Movie Recommendation System</li>
