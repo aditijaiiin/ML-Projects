@@ -19,3 +19,4 @@
 <li>Spam Mail Prediction - Classification (Logistic Regression)</li>
 <li>Movie Recommendation System</li>
 <li>Bank Customer Churn Prediction - Classification (Logistic Regression, SVM, KNN, Decision Tree, Random Forest, Gradient Boosting)</li>
+<li>House Price Prediction</li>
